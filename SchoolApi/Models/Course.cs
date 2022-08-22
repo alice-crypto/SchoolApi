@@ -6,6 +6,6 @@
         public string Name { get; set; }
         public int coef { get; set; }
         public DateTime date { get; set; }
-        public string TeacheNames { get; set;} 
+        public string TeacheName { get; set;} 
     }
 }
